@@ -4,7 +4,7 @@ Portfolio Annotation
 Who was the audience and under what conditions?
 
 
-This policy was submitted as a graded, graduate-level academic term project for a cybersecurity governance course at the Georgia Institute of Technology. The intended audience was dual—my course instructor(s) evaluating for technical accuracy and regulatory alignment, and a simulated hospital board and IT security leadership team as the fictional organizational stakeholders. The document was written from scratch. No employer template, existing policy, or institutional framework was provided or adapted.
+This policy was submitted as a graded, graduate-level academic term project for a cybersecurity governance course at the Georgia Institute of Technology. The intended audience was my course instructor(s) evaluating for technical accuracy and regulatory alignment, and a simulated hospital board and IT security leadership team as the fictional organizational stakeholders. The document was written from scratch. No employer template, existing policy, or institutional framework was provided or adapted.
 
 
 What problem does this document solve?
